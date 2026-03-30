@@ -10,7 +10,7 @@ _Love Cyber, soccer and business_
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub]([https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/DarthJay11)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white](https://www.linkedin.com/in/jader-santos-0a9277269/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/DarthJay11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jader-santos-0a9277269/)
 
 _"We STOP Breaches"_
